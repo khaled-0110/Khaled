@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/khaled-0110?tab=repositories">
-    <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/stars/khaled-0110?style=social" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/khaled-0110?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/khaled-0110?style=social" alt="GitHub followers"/>
   </a>
 </p>
 
