@@ -1,5 +1,7 @@
 <!-- Your GitHub profile README -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Khaled;A+passionate+data+engineer;Drawing+my+way+to+Machine+learning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Khaled;A+passionate+data+engineer;Drawing+my+way+to+Machine+learning" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/khaled-0110?tab=repositories">
